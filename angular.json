@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "siamComputing"
+    }
+  },
+  "defaultProject": "siamComputing",
+  "cli": {
+    "analytics": false
+  }
 }
